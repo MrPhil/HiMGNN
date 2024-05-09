@@ -9,12 +9,12 @@ This paper includes two datasets that HDVD and VDA2 processed from reference [1-
 
 
 # Citation
-Zhong-Hao Ren, et al. Hierarchical molecular graph neural network for drug repositioning and application to COVID-19 
+Zhong-Hao Ren, et al. A spatial hierarchical network learning framework for drug repositioning allowing interpretation from macro to micro 
 
 
 
 # Title
-Hierarchical molecular graph neural network for drug repositioning and application to COVID-19
+A spatial hierarchical network learning framework for drug repositioning allowing interpretation from macro to micro
 
 # 
 
