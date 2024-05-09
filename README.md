@@ -1,4 +1,4 @@
-# Hierarchical molecular graph neural network for drug repositioning and application to COVID-19
+# A spatial hierarchical network learning framework for drug repositioning allowing interpretation from macro to micro
 A deep learning-based VDAs predictor
 
 
