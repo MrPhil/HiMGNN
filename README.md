@@ -4,7 +4,7 @@ A deep learning-based VDAs predictor
 
 
 ## Data details
-This paper includes two datasets that HDVD and VDA2 processed from reference [1-2]. The drug synergistic and antagonistic interaction data is processed from reference [3].  The  Each dataset file contains drug-drug similarity file, virus-virus similarity file, drug-virus association file and the prior knowledge feature files of drug and virus. We also provided all the used sequence files of drug and virus.  Furthermore, the model can be trained and conducted prediction through running " 'HiMGNN_run.py' ", and the results can be recorded in the path of " 'results' /  '*dataset name*' ".
+This paper includes two datasets that HDVD and VDA2 processed from reference [1-2]. The drug synergistic and antagonistic interaction data is processed from reference [3].  The  Each dataset file contains drug-drug similarity file, virus-virus similarity file, drug-virus association file and the prior knowledge feature files of drug and virus. We also provided all the used sequence files of drug and virus.  Furthermore, the model can be trained and conducted prediction through running " 'SpHN_run.py' ", and the results can be recorded in the path of " 'results' /  '*dataset name*' ".
 
 
 
